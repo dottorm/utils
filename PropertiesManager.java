@@ -1,6 +1,4 @@
-/**
- * Singleton class to Manage propeties file
- ** /
+//Singleton class to manage properties file
 public class PropertiesManager {
 	
 	private static final Logger log = LogManager.getLogger(Constant.LOG_APPENDER_WS);
