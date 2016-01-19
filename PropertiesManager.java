@@ -1,7 +1,10 @@
+/**
+ * Singleton class to Manage propeties file
+ ** /
 public class PropertiesManager {
 	
 	private static final Logger log = LogManager.getLogger(Constant.LOG_APPENDER_WS);
-	private String propFileName = "enginedpdeca.properties";
+	private String propFileName = "fileName.properties";
 	
 	private Properties prop = new Properties();
 	
